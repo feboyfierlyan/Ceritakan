@@ -40,7 +40,7 @@
 3. Run server:
    ```bash
    npm run dev
-4. Buka di browserL
+4. Buka di browser:
    http://localhost:3000
 
 ## Lisensi
@@ -50,4 +50,3 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk informasi
 Untuk pertanyaan, masukan, atau saran, jangan ragu untuk menghubungi:
 
 Email: feboyfierlyan10@gmail.com
-GitHub: feboyfierlyan
