@@ -1,4 +1,4 @@
-# Ceritakan 🌟  
+# Ceritakan
 
 *Ceritakan* adalah aplikasi web sederhana dan intuitif di mana pengguna dapat berbagi pemikiran atau foto berdasarkan prompt harian. Dirancang dengan antarmuka minimalis dan fokus pada ekspresi pengguna, aplikasi ini membantu orang untuk merenung dan berbagi secara anonim dengan orang lain.
 
@@ -29,3 +29,20 @@
    ```bash  
    git clone https://github.com/feboyfierlyan/ceritakan.git  
    cd ceritakan  
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run server:
+   ```bash
+   npm run dev
+4. Buka di browserL
+   http://localhost:3000
+
+## Lisensi
+Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk informasi lebih lanjut.
+
+## Kontak
+Untuk pertanyaan, masukan, atau saran, jangan ragu untuk menghubungi:
+
+Email: feboyfierlyan10@gmail.com
+GitHub: feboyfierlyan
