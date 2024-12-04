@@ -3,6 +3,11 @@
 *Ceritakan* adalah aplikasi web sederhana dan intuitif di mana pengguna dapat berbagi pemikiran atau foto berdasarkan prompt harian. Dirancang dengan antarmuka minimalis dan fokus pada ekspresi pengguna, aplikasi ini membantu orang untuk merenung dan berbagi secara anonim dengan orang lain.
 
 ---
+![UI Preview](ui-preview_1.png)
+![UI Preview](ui-preview_2.png)
+![UI Preview](ui-preview_3.png)
+
+---
 
 ## Fitur ✨  
 
