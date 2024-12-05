@@ -2,7 +2,7 @@
 
 *Ceritakan* adalah aplikasi web sederhana dan intuitif di mana pengguna dapat berbagi pemikiran atau foto berdasarkan prompt harian. Dirancang dengan antarmuka minimalis dan fokus pada ekspresi pengguna, aplikasi ini membantu orang untuk merenung dan berbagi secara anonim dengan orang lain.
 
-Live Website : https://v0-ceritakan-dqk9zn9aaig-qjubmjyeg-feboyfierlyans-projects.vercel.app
+Live Website : https://amrfkaacmnaam5ytb9ichoy4gwxo0wsf.vercel.app
 
 ---
 ![UI Preview](ui_preview_1.png)
